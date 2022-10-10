@@ -16,6 +16,7 @@ namespace Emoji
             foreach (var item in chars)
             {
                 Console.WriteLine(item);
+
             }
 
 
